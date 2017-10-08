@@ -1,0 +1,19 @@
+galaxy_info:
+  author: Guillaume Vincent
+  description: upgrade system
+  license: license MIT
+  min_ansible_version: 2
+  platforms:
+  - name: EL
+    versions:
+    - 7
+  - name: Fedora
+    versions:
+    - 26
+  - name: Debian
+    versions:
+    - jessie
+  - name: Ubuntu
+    versions:
+    - trusty
+    - xenial
